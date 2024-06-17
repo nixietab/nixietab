@@ -1,7 +1,7 @@
 # Hi there, I'm Nixietab! 👋
 
-I create things because I get tired of them not existing.
-
+I create things because I get tired of them not existing. 
+![coffe](https://raw.githubusercontent.com/nixietab/nixietab/main/coffe.png)
 
 ## About Me
 I'm passionate about programming and creating meaningful projects. I primarily work with Python, JavaScript, and PHP, and I have a special love for the Qt GUI framework.
