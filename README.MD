@@ -4,7 +4,7 @@ I create things because I get tired of them not existing.
 ![coffe](https://raw.githubusercontent.com/nixietab/nixietab/main/coffe.gif)
 
 ## About Me
-I'm passionate about programming and creating meaningful projects. I primarily work with Python, JavaScript, and PHP, and I have a special love for the Qt GUI framework.
+I'm passionate about programming and creating usefull projects. I primarily work with Python, JavaScript, and PHP, and I have a special love for the Qt GUI framework.
 
 ## Skills
 - Python
