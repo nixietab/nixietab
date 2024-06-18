@@ -7,7 +7,6 @@ I create things because I get tired of them not existing.
 I'm passionate about programming and creating usefull projects. I primarily work with Python, JavaScript, and PHP, and I have a special love for the Qt GUI framework.
 
 ![Bug Whisperer](https://img.shields.io/badge/Bug%20Whisperer-%F0%9F%90%9B-yellowgreen)
-
 ![Coffee Powered](https://img.shields.io/badge/Coffee%20Powered-%E2%98%95-brown)
 
 ## Skills
