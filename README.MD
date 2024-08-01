@@ -15,6 +15,6 @@ I'm passionate about programming and creating usefull projects. I primarily work
 - PHP
 - Qt GUI Framework
 
-![nixietab](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
+![nixietab](https://github-readme-stats.vercel.app/api/top-langs?username=nixietab&show_icons=true&theme=tokyonight&layout=compact)
 
 Feel free to explore my repositories for some of my projects!
