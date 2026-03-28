@@ -14,6 +14,4 @@ Full-stack developer with a focus on practical tools, open-source contributions,
 - PHP
 - Qt GUI Framework
 
-![nixietab](https://github-readme-stats.vercel.app/api/top-langs?username=nixietab&show_icons=true&theme=monokai&layout=compact)
-
 Feel free to explore my repositories for some of my projects!
